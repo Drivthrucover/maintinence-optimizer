@@ -1,0 +1,23 @@
+{
+  "component": "fragile_sensor",
+  "model": "both",
+  "criticality": "high",
+  "metrics": {
+    "operating_time": 7005.0,
+    "failures": 22.0,
+    "failure_rate": 0.003140613847251963,
+    "mtbf": 318.40909090909093
+  },
+  "theta": 3000.0,
+  "beta": 0.85,
+  "thresholds": {
+    "inspect": 0.95,
+    "maintain": 0.9,
+    "replace": 0.8
+  },
+  "recommendations": {
+    "inspect": 120.40133779264214,
+    "maintain": 240.80267558528428,
+    "replace": 541.8060200668896
+  }
+}

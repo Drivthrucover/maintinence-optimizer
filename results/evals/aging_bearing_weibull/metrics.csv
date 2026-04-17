@@ -1,0 +1,2 @@
+component,operating_time,failures,failure_rate,mtbf,theta,beta,criticality,recommendation_model
+aging_bearing,15021.0,46.0,0.003062379335596831,326.54347826086956,3600.0,3.1,high,weibull

@@ -1,0 +1,2 @@
+component,operating_time,failures,failure_rate,mtbf,theta,beta,criticality,recommendation_model
+heavy_valve,23880.0,20.0,0.0008375209380234506,1194.0,1194.0,2.0,medium,exponential

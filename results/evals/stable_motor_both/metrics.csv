@@ -1,0 +1,2 @@
+component,operating_time,failures,failure_rate,mtbf,theta,beta,criticality,recommendation_model
+stable_motor,14267.0,8.0,0.0005607345622765823,1783.375,6200.0,1.2,low,weibull

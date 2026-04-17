@@ -1,0 +1,23 @@
+{
+  "component": "stable_motor",
+  "model": "both",
+  "criticality": "low",
+  "metrics": {
+    "operating_time": 14267.0,
+    "failures": 8.0,
+    "failure_rate": 0.0005607345622765823,
+    "mtbf": 1783.375
+  },
+  "theta": 6200.0,
+  "beta": 1.2,
+  "thresholds": {
+    "inspect": 0.85,
+    "maintain": 0.75,
+    "replace": 0.6
+  },
+  "recommendations": {
+    "inspect": 1391.304347826087,
+    "maintain": 2247.4916387959865,
+    "replace": 3585.2842809364547
+  }
+}

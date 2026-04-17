@@ -1,0 +1,4 @@
+component,action,threshold,time
+balanced_fan,inspect,0.85,1819.3979933110368
+balanced_fan,maintain,0.75,2615.3846153846152
+balanced_fan,replace,0.6,3695.6521739130435

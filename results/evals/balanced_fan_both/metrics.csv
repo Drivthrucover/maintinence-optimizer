@@ -1,0 +1,2 @@
+component,operating_time,failures,failure_rate,mtbf,theta,beta,criticality,recommendation_model
+balanced_fan,15780.0,21.0,0.0013307984790874524,751.4285714285714,5600.0,1.6,low,weibull

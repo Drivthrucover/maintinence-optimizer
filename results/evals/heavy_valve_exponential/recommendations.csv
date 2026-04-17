@@ -1,0 +1,4 @@
+component,action,threshold,time
+heavy_valve,inspect,0.9,173.91304347826087
+heavy_valve,maintain,0.85,260.8695652173913
+heavy_valve,replace,0.7,434.7826086956522

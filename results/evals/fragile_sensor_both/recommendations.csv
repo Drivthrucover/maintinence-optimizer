@@ -1,0 +1,4 @@
+component,action,threshold,time
+fragile_sensor,inspect,0.95,120.40133779264214
+fragile_sensor,maintain,0.9,240.80267558528428
+fragile_sensor,replace,0.8,541.8060200668896

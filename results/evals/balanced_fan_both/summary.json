@@ -1,0 +1,23 @@
+{
+  "component": "balanced_fan",
+  "model": "both",
+  "criticality": "low",
+  "metrics": {
+    "operating_time": 15780.0,
+    "failures": 21.0,
+    "failure_rate": 0.0013307984790874524,
+    "mtbf": 751.4285714285714
+  },
+  "theta": 5600.0,
+  "beta": 1.6,
+  "thresholds": {
+    "inspect": 0.85,
+    "maintain": 0.75,
+    "replace": 0.6
+  },
+  "recommendations": {
+    "inspect": 1819.3979933110368,
+    "maintain": 2615.3846153846152,
+    "replace": 3695.6521739130435
+  }
+}

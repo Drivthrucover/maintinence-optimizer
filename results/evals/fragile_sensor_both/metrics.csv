@@ -1,0 +1,2 @@
+component,operating_time,failures,failure_rate,mtbf,theta,beta,criticality,recommendation_model
+fragile_sensor,7005.0,22.0,0.003140613847251963,318.40909090909093,3000.0,0.85,high,weibull

@@ -1,0 +1,4 @@
+component,action,threshold,time
+aging_bearing,inspect,0.95,1391.304347826087
+aging_bearing,maintain,0.9,1765.8862876254182
+aging_bearing,replace,0.8,2247.4916387959865

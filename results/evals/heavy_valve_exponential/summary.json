@@ -1,0 +1,23 @@
+{
+  "component": "heavy_valve",
+  "model": "exponential",
+  "criticality": "medium",
+  "metrics": {
+    "operating_time": 23880.0,
+    "failures": 20.0,
+    "failure_rate": 0.0008375209380234506,
+    "mtbf": 1194.0
+  },
+  "theta": 1194.0,
+  "beta": 2.0,
+  "thresholds": {
+    "inspect": 0.9,
+    "maintain": 0.85,
+    "replace": 0.7
+  },
+  "recommendations": {
+    "inspect": 173.91304347826087,
+    "maintain": 260.8695652173913,
+    "replace": 434.7826086956522
+  }
+}

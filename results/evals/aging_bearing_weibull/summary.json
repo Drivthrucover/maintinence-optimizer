@@ -1,0 +1,23 @@
+{
+  "component": "aging_bearing",
+  "model": "weibull",
+  "criticality": "high",
+  "metrics": {
+    "operating_time": 15021.0,
+    "failures": 46.0,
+    "failure_rate": 0.003062379335596831,
+    "mtbf": 326.54347826086956
+  },
+  "theta": 3600.0,
+  "beta": 3.1,
+  "thresholds": {
+    "inspect": 0.95,
+    "maintain": 0.9,
+    "replace": 0.8
+  },
+  "recommendations": {
+    "inspect": 1391.304347826087,
+    "maintain": 1765.8862876254182,
+    "replace": 2247.4916387959865
+  }
+}

@@ -1,0 +1,7 @@
+component,operating_time,failures,theta,beta,criticality
+stable_motor,5200,2,6000,1.3,low
+wearing_pump,5100,4,4200,2.6,medium
+fragile_sensor,4600,5,3100,0.9,high
+heavy_valve,7300,3,6800,1.8,medium
+aging_bearing,4900,6,3600,3.0,high
+balanced_fan,6100,3,5900,1.5,low

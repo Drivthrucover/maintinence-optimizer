@@ -1,0 +1,23 @@
+{
+  "component": "wearing_pump",
+  "model": "weibull",
+  "criticality": "medium",
+  "metrics": {
+    "operating_time": 12696.0,
+    "failures": 21.0,
+    "failure_rate": 0.0016540642722117202,
+    "mtbf": 604.5714285714286
+  },
+  "theta": 4200.0,
+  "beta": 2.7,
+  "thresholds": {
+    "inspect": 0.9,
+    "maintain": 0.85,
+    "replace": 0.7
+  },
+  "recommendations": {
+    "inspect": 1826.0869565217392,
+    "maintain": 2153.846153846154,
+    "replace": 2903.010033444816
+  }
+}

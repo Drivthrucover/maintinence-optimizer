@@ -1,0 +1,2 @@
+component,operating_time,failures,failure_rate,mtbf,theta,beta,criticality,recommendation_model
+wearing_pump,12696.0,21.0,0.0016540642722117202,604.5714285714286,4200.0,2.7,medium,weibull

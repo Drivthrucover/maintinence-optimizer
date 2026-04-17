@@ -1,0 +1,4 @@
+component,action,threshold,time
+wearing_pump,inspect,0.9,1826.0869565217392
+wearing_pump,maintain,0.85,2153.846153846154
+wearing_pump,replace,0.7,2903.010033444816
