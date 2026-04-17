@@ -1,0 +1,4 @@
+component,operating_time,failures,theta,beta,criticality
+relay_A,5000,2,4200,2.1,medium
+sensor_B,5000,1,5500,1.6,high
+pump_C,5000,3,3500,2.4,low

@@ -1,0 +1,4 @@
+.tmp-cli/
+.tmp-tests/
+__pycache__/
+*.pyc
